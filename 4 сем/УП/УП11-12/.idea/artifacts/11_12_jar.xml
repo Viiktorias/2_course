@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="УП11-12:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/11_12_jar</output-path>
+    <root id="archive" name="УП11-12.jar">
+      <element id="module-output" name="УП11-12" />
+    </root>
+  </artifact>
+</component>

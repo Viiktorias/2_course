@@ -1,0 +1,7 @@
+﻿  Holetsky.cpp
+d:\2 курс\вма\лаб1\holetsky\holetsky\holetsky.cpp(24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\2 курс\вма\лаб1\holetsky\holetsky\holetsky.cpp(36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\2 курс\вма\лаб1\holetsky\holetsky\holetsky.cpp(43): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\2 курс\вма\лаб1\holetsky\holetsky\holetsky.cpp(47): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Holetsky.vcxproj -> D:\2 курс\ВМА\Лаб1\Holetsky\Debug\Holetsky.exe
+  Holetsky.vcxproj -> D:\2 курс\ВМА\Лаб1\Holetsky\Debug\Holetsky.pdb (Full PDB)

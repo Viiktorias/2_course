@@ -1,0 +1,49 @@
+.scrollable {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+tr, th {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+th {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+.subject {
+    text-align: center !important;
+    vertical-align: top !important;
+    font-family: Verdana, serif;
+    font-weight: bold;
+    word-wrap: break-word;
+}
+
+.lecturer {
+    text-align: center !important;
+    vertical-align: middle !important;
+    font-family: Georgia, sans-serif;
+    font-size: smaller;
+    word-wrap: break-spaces;
+}
+
+.type {
+    float: left;
+    text-align: left !important;
+    vertical-align: bottom !important;
+    font-family: Kinnariri, cursive;
+    font-style: italic;
+    font-size: smaller;
+    word-wrap: break-word;
+}
+
+.room {
+    text-align: right !important;
+    vertical-align: bottom !important;
+    font-family: Consolas, monospace;
+    word-wrap: normal;
+    text-indent: 10%;
+}

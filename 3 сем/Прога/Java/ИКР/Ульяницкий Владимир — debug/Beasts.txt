@@ -1,0 +1,11 @@
+Africa|Lion|Zebra
+America|Anaconda|Capybara
+Africa|Tiger|Antelope
+Africa|Nile crocodile|Reckless egyptian
+America|Coyote|Beaver
+Europe|Brown bear|Fish and ungulates animals
+Europe|Wolf|Hare
+America|Ocelot|Mammals and birds
+Africa|Leopard|Deer
+Europe|Lynx|Roe deer
+Africa|Hyena|Buffalo

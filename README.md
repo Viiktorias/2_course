@@ -1,2 +1,2 @@
 # 2_course
-BSU FAMCS 2nd year labs
+BSU FAMCS Informatics 2nd year labs

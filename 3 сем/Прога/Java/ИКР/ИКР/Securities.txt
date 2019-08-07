@@ -1,0 +1,8 @@
+1|Ivanov|300|BSU
+3|Petrov|190|BSUIR
+1|Sidorov|290|BSU Lyceum
+3|Polevoy|170|Faculty of Philology
+1|Kozlov|390|Belinvestbank
+2|Medvedev|350|Belgazprombank
+1|Koblov|285|Faculty of Phusics
+2|Lucashov|250|Belagroprombank

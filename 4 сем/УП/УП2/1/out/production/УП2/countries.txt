@@ -1,0 +1,9 @@
+Australia|Canberra
+Belarus|Minsk
+Belgium|Brussel
+Brazil|Brasilia
+Canada|Ottawa
+Egypt|Cairo
+Russia|Moskow
+United Kingdom|London
+United States|Washington

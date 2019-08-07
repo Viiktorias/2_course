@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Beasts>
+	<Beast>
+		<Position>1</Position>
+		<Name>Tiger</Name>
+		<Food>Antilopa Gnu</Food>
+	</Beast>
+	<Beast>
+		<Position>2</Position>
+		<Name>Alligator</Name>
+		<Food>Man</Food>
+	</Beast>
+	<Beast>
+		<Position>3</Position>
+		<Name>Bear</Name>
+		<Food>River fish</Food>
+	</Beast>
+	<Beast>
+		<Position>1</Position>
+		<Name>Lion</Name>
+		<Food>Zebra</Food>
+	</Beast>
+	<Beast>
+		<Position>2</Position>
+		<Name>White Bear</Name>
+		<Food>Nerpa</Food>
+	</Beast>
+</Beasts>

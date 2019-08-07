@@ -1,0 +1,5 @@
+Africa|Tiger|Antilopa Gnu
+America|Alligator|Man
+Europe|Bear|River fish
+Africa|Lion|Zebra
+America|White Bear|Nerpa

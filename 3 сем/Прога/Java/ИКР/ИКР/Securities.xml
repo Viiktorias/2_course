@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Securities>
+	<Security>
+		<Position>1</Position>
+		<Surname>Ivanov</Surname>
+		<Salary>300</Salary>
+		<GuardedObject>BSU</GuardedObject>
+	</Security>
+	<Security>
+		<Position>3</Position>
+		<Salary>190</Salary>
+		<Surname>Petrov</Surname>
+		<GuardedObject>BSUIR</GuardedObject>
+	</Security>
+	<Security>
+		<Salary>290</Salary>
+		<Surname>Sidorov</Surname>
+		<GuardedObject>BSU Lyceum</GuardedObject>
+		<Position>1</Position>
+		<Firstname>Ivan</Firstname>
+	</Security>
+	<Security>
+		<Surname>Polevoy</Surname>
+		<GuardedObject>Faculty of Philology</GuardedObject>
+		<Salary>180</Salary>
+		<Position>3</Position>
+	</Security>
+	<Security>
+		<Position>1</Position>
+		<Surname>Kozlov</Surname>
+		<Salary>390</Salary>
+		<GuardedObject>Belinvestbank</GuardedObject>
+	</Security>
+	<Security>
+		<Position>2</Position>
+		<Surname>Medvedev</Surname>
+		<Salary>350</Salary>
+		<GuardedObject>Belgazprombank</GuardedObject>
+	</Security>
+	<Security>
+		<Position>1</Position>
+		<Surname>Koblov</Surname>
+		<Salary>295</Salary>
+		<GuardedObject>Faculty of Phusics</GuardedObject>
+	</Security>
+	<Security>
+		<Position>2</Position>
+		<Surname>Lucashov</Surname>
+		<Salary>250</Salary>
+		<GuardedObject>Belagroprombank</GuardedObject>
+	</Security>
+</Securities>

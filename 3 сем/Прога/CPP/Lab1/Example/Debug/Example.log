@@ -1,0 +1,182 @@
+﻿  Source.cpp
+d:\2 course\cpp\example\example\source.cpp(3): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+d:\2 course\cpp\example\example\source.cpp(3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "w"
+d:\2 course\cpp\example\example\source.cpp(4): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+d:\2 course\cpp\example\example\source.cpp(4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "s"
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(159): error C2378: WORD: переопределение; символ нельзя перегрузить typedef
+  d:\2 course\cpp\example\example\source.cpp(3): note:  см. объявление "WORD"
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(168): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(168): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(168): error C2378: WORD: переопределение; символ нельзя перегрузить typedef
+  d:\2 course\cpp\example\example\source.cpp(3): note:  см. объявление "WORD"
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(169): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(169): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(169): error C2378: WORD: переопределение; символ нельзя перегрузить typedef
+  d:\2 course\cpp\example\example\source.cpp(3): note:  см. объявление "WORD"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(550): error C3646: Group: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(550): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(562): error C3646: Group: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(562): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(563): error C3646: Reserved: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(563): error C2143: синтаксическая ошибка: отсутствие "," перед "["
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(563): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(563): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(592): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(592): error C2378: WORD: переопределение; символ нельзя перегрузить typedef
+  d:\2 course\cpp\example\example\source.cpp(3): note:  см. объявление "WORD"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(592): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "FSHORT"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(670): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(670): error C2378: WORD: переопределение; символ нельзя перегрузить typedef
+  d:\2 course\cpp\example\example\source.cpp(3): note:  см. объявление "WORD"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(670): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "LANGID"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2296): error C3646: ControlWord: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2296): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2297): error C3646: StatusWord: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2297): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2300): error C3646: ErrorOpcode: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2300): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2302): error C3646: ErrorSelector: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2302): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2303): error C3646: Reserved2: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2303): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2305): error C3646: DataSelector: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2305): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2306): error C3646: Reserved3: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(2306): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5637): error C2061: синтаксическая ошибка: идентификатор "WORD"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5638): warning C4392: void __addfsword(DWORD): неправильный набор аргументов для подставляемой функции; требуется аргументов: "2"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5654): warning C4392: void __addfsword(DWORD): неправильный набор аргументов для подставляемой функции; требуется аргументов: "2"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5695): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5695): error C2086: int WORD: переопределение
+  d:\2 course\cpp\example\example\source.cpp(3): note:  см. объявление "WORD"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5695): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "__readfsword"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5713): error C2061: синтаксическая ошибка: идентификатор "WORD"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5714): warning C4392: void __writefsword(DWORD): неправильный набор аргументов для подставляемой функции; требуется аргументов: "2"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5723): warning C4164: __readfsword: подставляемая функция не объявлена
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5726): warning C4392: void __writefsword(DWORD): неправильный набор аргументов для подставляемой функции; требуется аргументов: "2"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(6048): error C3646: LimitLow: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(6048): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(6049): error C3646: BaseLow: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(6049): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8357): error C2433: WORD: "__forceinline" не разрешается для объявлений данных
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8357): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8357): error C2086: int WORD: переопределение
+  d:\2 course\cpp\example\example\source.cpp(3): note:  см. объявление "WORD"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8357): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ReadUShortAcquire"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8358): error C2059: синтаксическая ошибка: const
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8361): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8361): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8368): error C2433: WORD: "__forceinline" не разрешается для объявлений данных
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8368): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8368): error C2086: int WORD: переопределение
+  d:\2 course\cpp\example\example\source.cpp(3): note:  см. объявление "WORD"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8368): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ReadUShortNoFence"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8369): error C2059: синтаксическая ошибка: const
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8372): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8372): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8379): error C2433: WORD: "__forceinline" не разрешается для объявлений данных
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8379): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8379): error C2086: int WORD: переопределение
+  d:\2 course\cpp\example\example\source.cpp(3): note:  см. объявление "WORD"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8379): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ReadUShortRaw"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8380): error C2059: синтаксическая ошибка: const
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8383): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8383): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8391): error C2059: синтаксическая ошибка: volatile
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8395): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8395): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8404): error C2059: синтаксическая ошибка: volatile
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8408): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8408): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8417): error C2059: синтаксическая ошибка: volatile
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8421): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8421): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8939): error C3646: LimitLow: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8939): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8940): error C3646: BaseLow: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(8940): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(9848): error C3646: AclSize: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(9848): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(9849): error C3646: AceCount: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(9849): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(9850): error C3646: Sbz2: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(9850): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(9878): error C3646: AceSize: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(9878): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(10231): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(10231): error C2378: WORD: переопределение; символ нельзя перегрузить typedef
+  d:\2 course\cpp\example\example\source.cpp(3): note:  см. объявление "WORD"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(10231): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "SECURITY_DESCRIPTOR_CONTROL"
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(10324): error C3646: Control: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(10324): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(10334): error C3646: Control: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(10334): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(10399): error C3646: Level: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(10399): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(10400): error C3646: Sbz: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(10400): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11091): error C3646: ValueType: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11091): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11098): error C3646: Reserved: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11098): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11143): error C3646: ValueType: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11143): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11150): error C3646: Reserved: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11150): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11203): error C3646: Version: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11203): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11209): error C3646: Reserved: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11209): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11918): error C3646: LineSize: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11918): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11941): error C3646: GroupCount: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11941): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11954): error C3646: LineSize: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11954): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11969): error C3646: MaximumGroupCount: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11969): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11970): error C3646: ActiveGroupCount: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(11970): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12403): error C3646: ReparseDataLength: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12403): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12404): error C3646: Reserved: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12404): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12562): error C3646: Size: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12562): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12568): error C3646: Flags: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12568): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12574): error C3646: NumberOfParityExtents: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12574): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12580): error C3646: MaximumNumberOfParityExtents: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12580): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12657): error C3646: ResumeContextLength: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12657): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12665): error C3646: ParityExtentDataOffset: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(12665): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14681): error C3646: Revision: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14681): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14683): error C3646: AsWORD: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14683): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14685): error C3646: AllowScaling: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14685): error C2059: синтаксическая ошибка: :
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14685): error C2334: непредвиденные лексемы перед ":"; пропуск вероятного тела функции
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14890): error C3646: e_magic: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14890): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14891): error C3646: e_cblp: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14891): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14892): error C3646: e_cp: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14892): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14893): error C3646: e_crlc: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14893): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14894): error C3646: e_cparhdr: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14894): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14895): error C3646: e_minalloc: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14895): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14896): error C3646: e_maxalloc: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14896): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14897): error C3646: e_ss: неизвестный спецификатор переопределения
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(14897): fatal error C1003: число ошибок превышает 100; остановка компиляции
+  Fraction.cpp
+d:\2 course\cpp\example\example\fraction.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+d:\2 course\cpp\example\example\fraction.cpp(243): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...

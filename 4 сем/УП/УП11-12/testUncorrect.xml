@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+	<player id="130108" surname="УльяницкийV" name="Владимир" patronymic="Александрович">
+		<team>Хармпати</team>
+		<rating>6192</rating>
+	</player>
+	<player id="112099" surname="Копочель" name="Валентин" patronymic="Викторович">
+		<team>Ветераны апелляционных войск</team>
+		<rating>7020</rating>
+	</player>
+	<player id="123232" surname="Иванов" name="Иван" patronymic="Иванович">
+		<team>Умник</team>
+		<rating>12000</rating>
+	</player>
+</players>
+

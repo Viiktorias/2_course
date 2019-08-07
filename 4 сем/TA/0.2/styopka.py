@@ -1,0 +1,10 @@
+fin = open("input.txt", "r")
+lines = fin.readlines()
+fin.close()
+ss = set()
+for line in lines:
+    ss.add(int(line))
+sm = sum(ss)
+out = open("output.txt", "w")
+out.write(str(sm))
+out.close()

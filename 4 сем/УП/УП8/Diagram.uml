@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="912.0" y="0.0">Entity</node>
+    <node x="321.5" y="1469.0">View.KeyMonitor</node>
+    <node x="887.0" y="1102.0">Direction</node>
+    <node x="0.0" y="607.0">MetalWall</node>
+    <node x="0.0" y="1102.0">TankClient</node>
+    <node x="1938.0" y="618.5">Tree</node>
+    <node x="496.0" y="607.0">River</node>
+    <node x="1708.0" y="585.0">Home</node>
+    <node x="250.0" y="607.0">BrickWall</node>
+    <node x="719.0" y="486.0">Bullet</node>
+    <node x="1049.0" y="574.5">Explosion</node>
+    <node x="602.0" y="1102.0">ProgressLine</node>
+    <node x="1365.0" y="277.0">Tank</node>
+    <node x="301.0" y="1102.0">View</node>
+    <node x="1028.0" y="1102.0">Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Tree" target="Entity">
+      <point x="0.0" y="-48.5" />
+      <point x="2038.0" y="227.0" />
+      <point x="1143.5625" y="227.0" />
+      <point x="108.0625" y="103.5" />
+    </edge>
+    <edge source="MetalWall" target="Entity">
+      <point x="0.0" y="-60.0" />
+      <point x="115.0" y="227.0" />
+      <point x="927.4375" y="227.0" />
+      <point x="-108.0625" y="103.5" />
+    </edge>
+    <edge source="BrickWall" target="Entity">
+      <point x="0.0" y="-60.0" />
+      <point x="363.0" y="237.0" />
+      <point x="958.3125" y="237.0" />
+      <point x="-77.1875" y="103.5" />
+    </edge>
+    <edge source="Bullet" target="Entity">
+      <point x="0.0" y="-181.0" />
+      <point x="874.0" y="257.0" />
+      <point x="1020.0625" y="257.0" />
+      <point x="-15.4375" y="103.5" />
+    </edge>
+    <edge source="Explosion" target="Entity">
+      <point x="0.0" y="-92.5" />
+      <point x="1197.0" y="257.0" />
+      <point x="1050.9375" y="257.0" />
+      <point x="15.4375" y="103.5" />
+    </edge>
+    <edge source="River" target="Entity">
+      <point x="0.0" y="-60.0" />
+      <point x="597.5" y="247.0" />
+      <point x="989.1875" y="247.0" />
+      <point x="-46.3125" y="103.5" />
+    </edge>
+    <edge source="Home" target="Entity">
+      <point x="0.0" y="-82.0" />
+      <point x="1813.0" y="237.0" />
+      <point x="1112.6875" y="237.0" />
+      <point x="77.1875" y="103.5" />
+    </edge>
+    <edge source="Tank" target="Entity">
+      <point x="0.0" y="-390.0" />
+      <point x="1526.5" y="247.0" />
+      <point x="1081.8125" y="247.0" />
+      <point x="46.3125" y="103.5" />
+    </edge>
+    <edge source="View.KeyMonitor" target="View">
+      <point x="0.0" y="-36.5" />
+      <point x="0.0" y="158.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.30000000000000004" x="406.9999999999998" y="258.9999999999999" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

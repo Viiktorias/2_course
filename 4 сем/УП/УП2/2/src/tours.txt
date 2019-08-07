@@ -1,0 +1,9 @@
+Australia|Go home|300|true
+Belarus|Страна приятного удивления|300|true
+Belgium|Go home|300|false
+Brazil|Go home|300|false
+Canada|Go home|300|false
+Egypt|Go home|300|false
+Russia|Здесь тебе не рады|300|false
+United Kingdom|Go home|300|false
+United States|Yankee Go Home|300|true

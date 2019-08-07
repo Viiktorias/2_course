@@ -1,0 +1,5 @@
+﻿  Danilevsky.cpp
+d:\2 курс\вма\лаб3\danilevsky\danilevsky\danilevsky.cpp(77): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+d:\2 курс\вма\лаб3\danilevsky\danilevsky\danilevsky.cpp(78): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Danilevsky.vcxproj -> D:\2 курс\ВМА\Лаб3\Danilevsky\Debug\Danilevsky.exe
+  Danilevsky.vcxproj -> D:\2 курс\ВМА\Лаб3\Danilevsky\Debug\Danilevsky.pdb (Full PDB)

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Beasts>
+	<Beast>
+		<Position>1</Position>
+		<Name>Lion</Name>
+		<Food>Zebra</Food>
+	</Beast>
+	<Beast>
+		<Position>2</Position>
+		<Name>Anaconda</Name>
+		<Food>Capybara</Food>
+	</Beast>
+	<Beast>
+		<Position>1</Position>
+		<Name>Tiger</Name>
+		<Food>Antelope</Food>
+	</Beast>
+	<Beast>
+		<Position>1</Position>
+		<Name>Nile crocodile</Name>
+		<Food>Reckless egyptian</Food>
+	</Beast>
+	<Beast>
+		<Position>2</Position>
+		<Name>Coyote</Name>
+		<Food>Beaver</Food>
+	</Beast>
+	<Beast>
+		<Position>3</Position>
+		<Name>Brown bear</Name>
+		<Food>Fish and ungulates animals</Food>
+	</Beast>
+	<Beast>
+		<Position>3</Position>
+		<Name>Wolf</Name>
+		<Food>Hare</Food>
+	</Beast>
+	<Beast>
+		<Position>2</Position>
+		<Name>Ocelot</Name>
+		<Food>Mammals and birds</Food>
+	</Beast>
+	<Beast>
+		<Position>1</Position>
+		<Name>Leopard</Name>
+		<Food>Deer</Food>
+	</Beast>
+	<Beast>
+		<Position>3</Position>
+		<Name>Lynx</Name>
+		<Food>Roe deer</Food>
+	</Beast>
+	<Beast>
+		<Position>1</Position>
+		<Name>Hyena</Name>
+		<Food>Buffalo</Food>
+	</Beast>
+</Beasts>

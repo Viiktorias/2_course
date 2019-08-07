@@ -1,0 +1,8 @@
+0123546|Kizenkov|Programming|8
+4345678|Doroshevich|Computing Methods of Algebra|9
+4478923|Kiselyov|Mathematical Analysis|5
+1236789|Kapitonov|Programming|10
+0123546|Kizenkov|Computing Methods of Algebra|7
+4356789|Bukato|Diskrete Mathematics|9
+4345678|Doroshevich|Diskrete Mathematics|7
+4478923|Kiselyov|Economy|10

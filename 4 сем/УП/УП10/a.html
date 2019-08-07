@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="css/menu.css" rel="stylesheet">
+    <script src="js/menu.js"></script>
+    <link href="css/form.css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>Данные о студенте</title>
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="favicon.ico">
+</head>
+<body>
+<div class="menu">
+    <a href="a.html"><span class="green dot">1A</span></a>
+    <a href="b.html"><span class="dot">1B</span></a>
+    <a href="c.html"><span class="dot">1C</span></a>
+    <a href="index.html"><span class="dot">2</span></a>
+</div>
+<form enctype="multipart/form-data" method="post" action="">
+    <div class="form-group">
+        <label for="about">Введите информацию о себе</label>
+        <small id="about" class="form-text text-muted">Мы не передаем ваши данные кому-либо ещё.</small>
+    </div>
+    <div class="form-group">
+        <label for="name">Имя</label>
+        <input type="text" class="form-control" id="name" aria-describedby="nameHelp"
+               placeholder="Введите своё имя" required>
+    </div>
+    <div class="form-group">
+        <label for="surname">Фамилия</label>
+        <input type="text" class="form-control" id="surname" aria-describedby="surnameHelp"
+               placeholder="Введите свою фамилию" required>
+    </div>
+    <div class="form-group">
+        <label>Ваш пол</label>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="genderRadios"
+                   id="exampleFemale" value="optionFemale" required>
+            <label class="form-check-label" for="exampleFemale">
+                Женский
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="genderRadios"
+                   id="exampleMale" value="optionMale" required>
+            <label class="form-check-label" for="exampleMale">
+                Мужской
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="genderRadios"
+                   id="exampleOther" value="optionOther" required>
+            <label class="form-check-label" for="exampleOther">
+                Другое
+            </label>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="groupSelect">Ваша группа</label>
+        <select class="form-control" id="groupSelect" required>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+            <option>6</option>
+            <option>7</option>
+            <option>8</option>
+            <option>9</option>
+            <option>10</option>
+            <option>11</option>
+            <option>12</option>
+        </select>
+    </div>
+    <div class="form-check">
+        <input type="checkbox" class="form-check-input" id="myCheck">
+        <label class="form-check-label" for="myCheck">Я собираюсь поступать на кафедру БМИ</label>
+    </div>
+    <div><input id="file" type="file" accept="image/*" onchange="previewFile()" required></div>
+    <div>
+        <img height="300" alt="Предпросмотр изображения" src="" id="preview">
+    </div>
+    <div>
+        <button id="ok" type="submit" name="ok" onclick="delPreviev()">
+            <img src="https://img.icons8.com/color/48/000000/ok.png" width="48" alt="OK">
+        </button>
+        <button id="cancel" type="reset" name="cancel" onclick="delPreviev()">
+            <img src="https://img.icons8.com/color/48/000000/cancel.png" width="48" alt="Cancel">
+        </button>
+    </div>
+
+</form>
+
+<script>
+    function previewFile() {
+        var preview = document.querySelector('img[id=preview]');
+        var file = document.querySelector('input[id=file]').files[0];
+        var reader = new FileReader();
+        reader.onloadend = function () {
+            preview.src = reader.result.toString();
+        };
+        if (file) {
+            reader.readAsDataURL(file);
+        } else {
+            preview.src = "";
+        }
+    }
+
+    function delPreviev() {
+        var preview = document.querySelector('img[id=preview]');
+        preview.src = "";
+    }
+</script>
+</body>
+</html>

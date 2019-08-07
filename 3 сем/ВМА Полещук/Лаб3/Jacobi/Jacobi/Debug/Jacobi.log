@@ -1,0 +1,8 @@
+﻿  Jacobi.cpp
+d:\2 курс\вма\лаб3\jacobi\jacobi\jacobi.cpp(93): warning C4305: инициализация: усечение из "double" к "float"
+d:\2 курс\вма\лаб3\jacobi\jacobi\jacobi.cpp(111): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\2 курс\вма\лаб3\jacobi\jacobi\jacobi.cpp(112): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\2 курс\вма\лаб3\jacobi\jacobi\jacobi.cpp(119): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\2 курс\вма\лаб3\jacobi\jacobi\jacobi.cpp(238): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Jacobi.vcxproj -> D:\2 курс\ВМА\Лаб3\Jacobi\Debug\Jacobi.exe
+  Jacobi.vcxproj -> D:\2 курс\ВМА\Лаб3\Jacobi\Debug\Jacobi.pdb (Full PDB)

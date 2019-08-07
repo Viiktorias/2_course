@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Results>
+<Result>
+	<Number>0123546</Number>
+	<Name>Kizenkov</Name>
+	<Subject>Programming</Subject>
+	<Mark>8</Mark>
+</Result>
+<Result>
+	<Number>4345678</Number>
+	<Name>Doroshevich</Name>
+	<Subject>Computing Methods of Algebra</Subject>
+	<Mark>9</Mark>
+</Result>
+<Result>
+	<Number>4478923</Number>
+	<Name>Kiselyov</Name>
+	<Subject>Mathematical Analysis</Subject>
+	<Mark>5</Mark>
+</Result>
+<Result>
+	<Number>1236789</Number>
+	<Name>Kapitonov</Name>
+	<Subject>Programming</Subject>
+	<Mark>10</Mark>
+</Result>
+<Result>
+	<Number>0123546</Number>
+	<Name>Kizenkov</Name>
+	<Subject>Computing Methods of Algebra</Subject>
+	<Mark>7</Mark>
+</Result>
+<Result>
+	<Number>4356789</Number>
+	<Name>Bukato</Name>
+	<Subject>Diskrete Mathematics</Subject>
+	<Mark>9</Mark>
+</Result>
+<Result>
+	<Number>4345678</Number>
+	<Name>Doroshevich</Name>
+	<Subject>Diskrete Mathematics</Subject>
+	<Mark>7</Mark>
+</Result>
+<Result>
+	<Number>4478923</Number>
+	<Name>Kiselyov</Name>
+	<Subject>Economy</Subject>
+	<Mark>10</Mark>
+</Result>
+<Result>
+	<Number>1723225</Number>
+	<Name>Ulyanitsky</Name>
+	<Subject>Programming</Subject>
+	<Mark>8</Mark>
+</Result>
+</Results>

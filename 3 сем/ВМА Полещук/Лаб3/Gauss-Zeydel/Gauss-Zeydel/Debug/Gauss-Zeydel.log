@@ -1,0 +1,7 @@
+﻿  Gauss-Zeydel.cpp
+d:\2 курс\вма\лаб3\gauss-zeydel\gauss-zeydel\gauss-zeydel.cpp(80): warning C4305: инициализация: усечение из "double" к "float"
+d:\2 курс\вма\лаб3\gauss-zeydel\gauss-zeydel\gauss-zeydel.cpp(98): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\2 курс\вма\лаб3\gauss-zeydel\gauss-zeydel\gauss-zeydel.cpp(100): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\2 курс\вма\лаб3\gauss-zeydel\gauss-zeydel\gauss-zeydel.cpp(102): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Gauss-Zeydel.vcxproj -> D:\2 курс\ВМА\Лаб3\Gauss-Zeydel\Debug\Gauss-Zeydel.exe
+  Gauss-Zeydel.vcxproj -> D:\2 курс\ВМА\Лаб3\Gauss-Zeydel\Debug\Gauss-Zeydel.pdb (Full PDB)

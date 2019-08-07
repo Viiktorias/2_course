@@ -1,0 +1,84 @@
+.card-img-top {
+    width: 100%;
+    object-fit: cover;
+}
+
+.my-auto {
+    margin: auto auto
+}
+
+body {
+    display: flex;
+    align-items: center;
+    background-color:#343a40;
+    font: 100% sans-serif;
+}
+
+body, html {
+    height: 100%;
+}
+
+
+.card-title {
+    color: #882320;
+    font-family: 'Kurale', serif;
+}
+
+.card-text {
+    font-family: 'Cosugi Maru', cursive;
+}
+
+
+.card-container {
+    display: grid;
+    perspective: 700px;
+    width: 18rem;
+}
+
+@media (max-width: 1080px) {
+    .card-container {
+        width: 38rem;
+    }
+}
+
+.card-flip {
+    display: grid;
+    grid-template: 1fr / 1fr;
+    grid-template-areas: "frontAndBack";
+    transform-style: preserve-3d;
+    transition: all 0.7s ease;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: larger;
+}
+
+a {
+    color: #3d6dbe;
+    text-decoration: none;
+}
+
+a:focus,
+a:hover {
+    color: #6594e0;
+}
+
+.card-flip div {
+    backface-visibility: hidden;
+    transform-style: preserve-3d;
+}
+
+.front {
+    grid-area: frontAndBack;
+}
+
+.back {
+    grid-area: frontAndBack;
+    transform: rotateY(-180deg);
+}
+
+.card-container:hover .card-flip {
+    transform: rotateY(180deg);
+}

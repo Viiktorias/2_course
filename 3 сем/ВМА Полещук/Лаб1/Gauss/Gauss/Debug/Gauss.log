@@ -1,0 +1,9 @@
+﻿  Gauss.cpp
+d:\2 курс\вма\лаб1\gauss\gauss\gauss.cpp(26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\2 курс\вма\лаб1\gauss\gauss\gauss.cpp(38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\2 курс\вма\лаб1\gauss\gauss\gauss.cpp(43): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\2 курс\вма\лаб1\gauss\gauss\gauss.cpp(47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\2 курс\вма\лаб1\gauss\gauss\gauss.cpp(59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  LINK : не найден или не выполнена сборка D:\2 курс\ВМА\Лаб1\Gauss\Debug\Gauss.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Gauss.vcxproj -> D:\2 курс\ВМА\Лаб1\Gauss\Debug\Gauss.exe
+  Gauss.vcxproj -> D:\2 курс\ВМА\Лаб1\Gauss\Debug\Gauss.pdb (Full PDB)

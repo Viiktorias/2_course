@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="353.5" y="500.0">Postgraduate</node>
+    <node x="72.12733585858598" y="280.0">Academic</node>
+    <node x="572.875" y="691.0">Course</node>
+    <node x="820.1787247474748" y="257.0">Notifier</node>
+    <node x="505.60729617604613" y="890.0">ProgrammingTest</node>
+    <node x="507.85679112554106" y="190.0">Student</node>
+    <node x="825.0148358585859" y="45.0">Notifiable</node>
+    <node x="276.0887355699856" y="0.0">Person</node>
+    <node x="10.5" y="500.0">Undergraduate</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ProgrammingTest" target="Undergraduate">
+      <point x="-56.33333333333337" y="-25.5" />
+      <point x="533.7739628427128" y="860.0" />
+      <point x="172.0" y="860.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+    <edge source="Course" target="Student">
+      <point x="101.66666666666663" y="-59.5" />
+      <point x="827.0416666666666" y="666.0" />
+      <point x="751.6751984126985" y="666.0" />
+      <point x="751.6751984126985" y="470.0" />
+      <point x="687.4282196969697" y="470.0" />
+      <point x="64.57142857142856" y="114.5" />
+    </edge>
+    <edge source="Student" target="Notifiable">
+      <point x="75.33333333333337" y="-114.5" />
+      <point x="698.1901244588745" y="171.0" />
+      <point x="852.5148358585859" y="171.0" />
+      <point x="-55.0" y="25.5" />
+    </edge>
+    <edge source="Postgraduate" target="Academic">
+      <point x="-39.25" y="-70.5" />
+      <point x="471.25" y="440.0" />
+      <point x="219.727335858586" y="440.0" />
+      <point x="65.6" y="25.5" />
+    </edge>
+    <edge source="ProgrammingTest" target="Course">
+      <point x="0.0" y="-25.5" />
+      <point x="590.1072961760461" y="830.0" />
+      <point x="649.125" y="830.0" />
+      <point x="-76.25" y="59.5" />
+    </edge>
+    <edge source="Course" target="Postgraduate">
+      <point x="-101.66666666666674" y="-59.5" />
+      <point x="623.7083333333333" y="666.0" />
+      <point x="615.1666666666667" y="666.0" />
+      <point x="104.66666666666674" y="70.5" />
+    </edge>
+    <edge source="Student" target="Person">
+      <point x="-75.33333333333337" y="-114.5" />
+      <point x="547.5234577922078" y="171.0" />
+      <point x="389.2137355699856" y="171.0" />
+      <point x="22.625" y="70.5" />
+    </edge>
+    <edge source="Academic" target="Person">
+      <point x="-41.0" y="-25.5" />
+      <point x="113.12733585858598" y="161.0" />
+      <point x="298.7137355699856" y="161.0" />
+      <point x="-67.875" y="70.5" />
+    </edge>
+    <edge source="Postgraduate" target="Student">
+      <point x="117.75" y="-70.5" />
+      <point x="628.25" y="480.0" />
+      <point x="622.8567911255411" y="480.0" />
+      <point x="0.0" y="114.5" />
+    </edge>
+    <edge source="Undergraduate" target="Student">
+      <point x="121.125" y="-70.5" />
+      <point x="293.125" y="470.0" />
+      <point x="558.2853625541126" y="470.0" />
+      <point x="-64.57142857142856" y="114.5" />
+    </edge>
+    <edge source="ProgrammingTest" target="Notifier">
+      <point x="56.33333333333337" y="-25.5" />
+      <point x="646.4406295093795" y="860.0" />
+      <point x="907.5148358585859" y="860.0" />
+      <point x="907.5148358585859" y="450.0" />
+      <point x="885.6787247474748" y="450.0" />
+      <point x="-65.5" y="48.5" />
+    </edge>
+    <edge source="ProgrammingTest" target="Student">
+      <point x="37.55555555555554" y="-25.5" />
+      <point x="627.6628517316017" y="850.0" />
+      <point x="888.375" y="850.0" />
+      <point x="888.375" y="460.0" />
+      <point x="719.7139339826838" y="460.0" />
+      <point x="96.85714285714276" y="114.5" />
+    </edge>
+    <edge source="Undergraduate" target="Academic">
+      <point x="-121.125" y="-70.5" />
+      <point x="50.875" y="480.0" />
+      <point x="121.32733585858597" y="480.0" />
+      <point x="-32.8" y="25.5" />
+    </edge>
+    <edge source="Notifier" target="Notifiable">
+      <point x="65.5" y="-48.5" />
+      <point x="1016.6787247474748" y="171.0" />
+      <point x="962.5148358585859" y="171.0" />
+      <point x="55.0" y="25.5" />
+    </edge>
+    <edge source="ProgrammingTest" target="Academic">
+      <point x="-75.11111111111109" y="-25.5" />
+      <point x="514.996185064935" y="870.0" />
+      <point x="0.0" y="870.0" />
+      <point x="0.0" y="470.0" />
+      <point x="88.52733585858596" y="470.0" />
+      <point x="-65.60000000000002" y="25.5" />
+    </edge>
+    <edge source="ProgrammingTest" target="Postgraduate">
+      <point x="-18.777777777777715" y="-25.5" />
+      <point x="571.3295183982684" y="840.0" />
+      <point x="463.66666666666663" y="840.0" />
+      <point x="463.66666666666663" y="666.0" />
+      <point x="510.5" y="666.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="503.0" y="306.0" />
+  <SelectedNodes>
+    <node>Student</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
